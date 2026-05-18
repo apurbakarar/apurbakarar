@@ -74,16 +74,6 @@ Webhook-based automation integrating forms, CRM, and email systems.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurbakarar&show_icons=true&theme=tokyonight" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurbakarar&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - AI-powered automation
